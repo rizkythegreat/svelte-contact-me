@@ -1,3 +1,7 @@
+<script>
+	const myWhatsapp = '0895421178625';
+</script>
+
 <div
 	class="flex min-h-screen items-center justify-center bg-brand-ten bg-mesh-pattern bg-cover bg-no-repeat px-4 md:px-6 lg:px-8"
 >
@@ -111,12 +115,8 @@
 					<span class="sr-only"> Open Github profile for Rizky Rahman </span>
 				</a>
 				<a
-					class="flex items-center justify-center rounded-md bg-gradient-to-br from-[#5C30BB] to-[#393BCE] p-4 text-button-sm uppercase text-neutral-one hover:from-[#482692] hover:to-[#2A2CAC] focus:outline-none focus-visible:from-[#482692] focus-visible:to-[#2A2CAC] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-six md:p-5 md:text-button-base"
-					href="mailto:clashikik@gmail.com">Contact me</a
-				>
-				<!-- <a
 					class="rounded-sm bg-neutral-seven p-5 text-neutral-one hover:bg-neutral-eight focus:outline-none focus-visible:bg-neutral-eight focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-six"
-					href="https://dribbble.com"
+					href="https://rizkythegreat.vercel.app/"
 				>
 					<svg
 						width="24"
@@ -126,15 +126,33 @@
 						xmlns="http://www.w3.org/2000/svg"
 					>
 						<path
-							d="M16.673 20.843C15.5 14 12.5 8 8.5 2.63M2.067 10.84C6 11 15.283 10.5 19.142 5M21.968 12.81C15.344 10.84 7.5 14 5.23 19.361M2 12C2 17.523 6.477 22 12 22C17.523 22 22 17.523 22 12C22 6.477 17.523 2 12 2C6.477 2 2 6.477 2 12Z"
-							stroke="currentColor"
-							stroke-width="1.5"
+							d="M14.5941 7.5H17.25C18.4435 7.5 19.5881 7.97411 20.432 8.81802C21.2759 9.66193 21.75 10.8065 21.75 12C21.75 13.1935 21.2759 14.3381 20.432 15.182C19.5881 16.0259 18.4435 16.5 17.25 16.5H14.6527"
+							stroke="white"
+							stroke-width="2.25"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+						/>
+						<path
+							d="M9.34735 16.5H6.75001C5.55653 16.5 4.41194 16.0259 3.56803 15.182C2.72411 14.3381 2.25001 13.1935 2.25001 12C2.25001 10.8065 2.72411 9.66193 3.56803 8.81802C4.41194 7.97411 5.55653 7.5 6.75001 7.5H9.40594"
+							stroke="white"
+							stroke-width="2.25"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+						/>
+						<path
+							d="M16.0749 12H7.83142"
+							stroke="white"
+							stroke-width="2.25"
 							stroke-linecap="round"
 							stroke-linejoin="round"
 						/>
 					</svg>
-					<span class="sr-only"> Open Dribble profile for Rizky Rahman </span>
-				</a> -->
+					<span class="sr-only"> Open Landing Page for Rizky Rahman </span>
+				</a>
+				<a
+					class="flex items-center justify-center rounded-md bg-gradient-to-br from-[#5C30BB] to-[#393BCE] p-4 text-button-sm uppercase text-neutral-one hover:from-[#482692] hover:to-[#2A2CAC] focus:outline-none focus-visible:from-[#482692] focus-visible:to-[#2A2CAC] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-six md:p-5 md:text-button-base"
+					href={`https://wa.me/${myWhatsapp}`}>Contact me</a
+				>
 			</div>
 		</div>
 	</main>
