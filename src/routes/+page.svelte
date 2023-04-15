@@ -1,5 +1,6 @@
 <script>
 	const myWhatsapp = '+62895421178625';
+	const waMe = 'https://wa.me/+62895421178625';
 </script>
 
 <div
@@ -151,7 +152,7 @@
 				</a>
 				<a
 					class="flex items-center justify-center rounded-md bg-gradient-to-br from-[#5C30BB] to-[#393BCE] p-4 text-button-sm uppercase text-neutral-one hover:from-[#482692] hover:to-[#2A2CAC] focus:outline-none focus-visible:from-[#482692] focus-visible:to-[#2A2CAC] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-six md:p-5 md:text-button-base"
-					href={`https://wa.me/${myWhatsapp}`}>Contact me</a
+					href={waMe}>Contact me</a
 				>
 			</div>
 		</div>
