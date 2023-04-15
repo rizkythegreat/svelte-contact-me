@@ -1,5 +1,5 @@
 <script>
-	const myWhatsapp = '0895421178625';
+	const myWhatsapp = '+62895421178625';
 </script>
 
 <div
