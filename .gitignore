@@ -5,6 +5,9 @@ node_modules
 /package
 .env
 .env.*
+_fonts
+_figma
+_assets
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
