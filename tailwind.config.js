@@ -9,7 +9,7 @@ export default {
 				sans: ['Lexend', ...fontFamily.sans]
 			},
 			backgroundImage: {
-				'mesh-pattern': "url('./src/assets/static/mesh.svg')"
+				'mesh-pattern': "url('public/mesh.svg')"
 			}
 		},
 		colors: {
